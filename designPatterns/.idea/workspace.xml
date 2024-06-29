@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e6594dd-6bc7-4deb-81ae-761930558cc6" name="Changes" comment="changes done" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2a2nandpzFOC2rrungdtyF1ZvYg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Client.executor": "Run",
+    "Application.DevClient.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main (3).executor": "Run",
+    "Application.Main (4).executor": "Run",
+    "Application.Main (5).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Request.executor": "Run",
+    "Application.SingletonDesignPattern.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.adapterDesignPatternn.Main.executor": "Run",
+    "Application.builderDesignPattern.Main.executor": "Run",
+    "Application.iteratorDesignPattern.Main.executor": "Run",
+    "Application.observerDesignPattern.Main.executor": "Run",
+    "Application.prototypeDesignPattern.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/SA20408505/Documents/LLD/LLDWithSaurav/designPatterns"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/abstractDesignPattern" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/observerDesignPattern" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="singletonDesignPattern" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.adapterDesignPatternn.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="designPatterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="designPatterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="designPatterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="adapterDesignPatternn.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="adapterDesignPatternn.Main" />
+      <module name="designPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adapterDesignPatternn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="builderDesignPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="builderDesignPattern.Main" />
+      <module name="designPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="builderDesignPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prototypeDesignPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="prototypeDesignPattern.Main" />
+      <module name="designPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prototypeDesignPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.adapterDesignPatternn.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.prototypeDesignPattern.Main" />
+        <item itemvalue="Application.builderDesignPattern.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e6594dd-6bc7-4deb-81ae-761930558cc6" name="Changes" comment="" />
+      <created>1703525610342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703525610342</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Singleton design pattern added">
+      <option name="closed" value="true" />
+      <created>1703531637549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703531637549</updated>
+    </task>
+    <task id="LOCAL-00002" summary="factory and builder design pattern added">
+      <option name="closed" value="true" />
+      <created>1703680123509</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703680123509</updated>
+    </task>
+    <task id="LOCAL-00003" summary="prototype design pattern added">
+      <option name="closed" value="true" />
+      <created>1703712131241</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703712131241</updated>
+    </task>
+    <task id="LOCAL-00004" summary="shallow and deep copy added">
+      <option name="closed" value="true" />
+      <created>1703760539569</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703760539569</updated>
+    </task>
+    <task id="LOCAL-00005" summary="observer design pattern added">
+      <option name="closed" value="true" />
+      <created>1703762978185</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703762978185</updated>
+    </task>
+    <task id="LOCAL-00006" summary="iterator design pattern added">
+      <option name="closed" value="true" />
+      <created>1703765431219</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703765431219</updated>
+    </task>
+    <task id="LOCAL-00007" summary="adapter design pattern added">
+      <option name="closed" value="true" />
+      <created>1703766904960</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703766904960</updated>
+    </task>
+    <task id="LOCAL-00008" summary="design pattern completed">
+      <option name="closed" value="true" />
+      <created>1703767154069</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703767154069</updated>
+    </task>
+    <task id="LOCAL-00009" summary="changes done">
+      <option name="closed" value="true" />
+      <created>1712436332756</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712436332756</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Singleton design pattern added" />
+    <MESSAGE value="factory and builder design pattern added" />
+    <MESSAGE value="prototype design pattern added" />
+    <MESSAGE value="shallow and deep copy added" />
+    <MESSAGE value="observer design pattern added" />
+    <MESSAGE value="iterator design pattern added" />
+    <MESSAGE value="adapter design pattern added" />
+    <MESSAGE value="design pattern completed" />
+    <MESSAGE value="changes done" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes done" />
+  </component>
+</project>
